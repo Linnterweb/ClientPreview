@@ -1,0 +1,99 @@
+.f1 {
+    font-family: 'Gotham Medium', 'Futura PT Light';
+}
+
+.f2 h1, h2, h3, h4, h5, h6 {
+    font-family: 'Mukta Mahee';
+}
+
+.temp {
+    border: 2px dotted black;
+    border-radius: 10px;
+}
+
+.imgbox {
+    height: 50px;
+    width: 50px;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.brandzone {
+    margin-top: 20px;
+}
+
+.brandBox {
+    margin:0 auto;
+}
+
+.hide {
+    opacity:0;
+}
+
+html {
+    height: 100%;
+    box-sizing: border-box;
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  
+  body {
+    position: relative;
+    margin: 0;
+    padding-bottom: 6rem;
+    min-height: 100%;
+    font-family: 'Cabin';
+  }
+
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #efefef;
+    text-align: center;
+  }
+
+  .vidblock {
+      padding: 10rem 0 8rem;
+      width: 100rem;
+  }
+
+  .glyphicon-ok {
+    margin-right: 11px;
+  }
+
+  .smallVidBlock {
+      margin-top: 150px;
+  }
+
+  .col-centered{
+    float: none;
+    margin: 0 auto;
+}
+/* #big {
+    position: absolute;
+} */
+
+/* #contact {
+    position: absolute; 
+     top: 1300px;
+} */
+
+/* body {
+    height: 100%;
+} */
+
+@font-face {
+    font-family: 'Cabin';
+    src: url('https://fonts.googleapis.com/css?family=Mukta+Mahee')
+}
+
+@import url('https://fonts.googleapis.com/css?family=Mukta+Mahee');

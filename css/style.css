@@ -888,7 +888,20 @@ ul,.nav {
 
 /* / BRANDS PAGE / */
 
-.mainView .container-fluid .squeezer {
+#brands-intro {
+    margin-top: 150px;
+}
+
+#b-image-1 {
+    height: 250px;
+    float:right;
+}
+
+.float-left {
+    float: left;
+}
+
+/* .mainView .container-fluid .squeezer {
     padding: 0 100px;
 }
 
@@ -944,4 +957,4 @@ ul,.nav {
 .mainView .container-fluid .why-axle .line-break {
     border: 10px solid black;
     height: 300px;
-}
+} */

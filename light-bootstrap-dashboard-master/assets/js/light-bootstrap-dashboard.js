@@ -81,14 +81,14 @@ lbd = {
             $navbar = $('nav').find('.navbar-collapse').first().clone(true);
 
             $sidebar = $('.sidebar');
-            sidebar_color = $sidebar.data('color');
+            // sidebar_color = $sidebar.data('color');
 
             $logo = $sidebar.find('.logo').first();
             logo_content = $logo[0].outerHTML;
 
             ul_content = '';
 
-            $navbar.attr('data-color',sidebar_color);
+            // $navbar.attr('data-color',sidebar_color);
 
             //add the content from the regular header to the right menu
             $navbar.children('ul').each(function(){

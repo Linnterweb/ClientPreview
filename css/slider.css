@@ -4,164 +4,164 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
-body,figure {
+/* body,figure {
     margin: 0
-}
+} */
 
-.navbar-fixed-bottom .navbar-collapse,.navbar-fixed-top .navbar-collapse,.pre-scrollable {
+/* .navbar-fixed-bottom .navbar-collapse,.navbar-fixed-top .navbar-collapse,.pre-scrollable {
     max-height: 340px
-}
+} */
 
-.fa,.glyphicon {
+/* .fa,.glyphicon {
     -moz-osx-font-smoothing: grayscale
-}
+} */
 
-.slick-slider,html {
+/* .slick-slider,html {
     -webkit-tap-highlight-color: transparent
-}
+} */
 
-html {
-    /* font-family: sans-serif; */
+/* html {
+    font-family: sans-serif;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%
-}
+} */
 
-article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary {
+/* article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary {
     display: block
-}
+} */
 
-audio,canvas,progress,video {
+/* audio,canvas,progress,video {
     display: inline-block;
     vertical-align: baseline
-}
+} */
 
-audio:not([controls]) {
+/* audio:not([controls]) {
     display: none;
     height: 0
-}
+} */
 
-[hidden],template {
+/* [hidden],template {
     display: none
-}
+} */
 
-a {
+/* a {
     background-color: transparent
-}
+} */
 
-a:active,a:hover {
+/* a:active,a:hover {
     outline: 0
-}
+} */
 
-b,optgroup,strong {
+/* b,optgroup,strong {
     font-weight: 700
-}
+} */
 
-dfn {
+/* dfn {
     font-style: italic
-}
+} */
 
-h1 {
+/* h1 {
     margin: .67em 0
-}
+} */
 
-mark {
+/* mark {
     color: #000;
     background: #ff0
-}
+} */
 
-sub,sup {
+/* sub,sup {
     position: relative;
     font-size: 75%;
     line-height: 0;
     vertical-align: baseline
-}
+} */
 
-sup {
+/* sup {
     top: -.5em
-}
+} */
 
-sub {
+/* sub {
     bottom: -.25em
-}
+} */
 
-img {
+/* img {
     border: 0;
     vertical-align: middle
-}
+} */
 
-svg:not(:root) {
+/* svg:not(:root) {
     overflow: hidden
-}
+} */
 
-hr {
+/* hr {
     height: 0;
     box-sizing: content-box
-}
+} */
 
-pre,textarea {
+/* pre,textarea {
     overflow: auto
-}
+} */
 
-code,kbd,pre,samp {
+/* code,kbd,pre,samp {
     font-size: 1em
-}
+} */
 
-button,input,optgroup,select,textarea {
+/* button,input,optgroup,select,textarea {
     margin: 0;
     font: inherit;
     color: inherit
-}
+} */
 
-.glyphicon,address {
+/* .glyphicon,address {
     font-style: normal
-}
+} */
 
-button {
+/* button {
     overflow: visible
-}
+} */
 
-button,select {
+/* button,select {
     text-transform: none
-}
+} */
 
-button,html input[type=button],input[type=reset],input[type=submit] {
+/* button,html input[type=button],input[type=reset],input[type=submit] {
     -webkit-appearance: button;
     cursor: pointer
-}
+} */
 
-button[disabled],html input[disabled] {
+/* button[disabled],html input[disabled] {
     cursor: default
-}
+} */
 
-button::-moz-focus-inner,input::-moz-focus-inner {
+/* button::-moz-focus-inner,input::-moz-focus-inner {
     padding: 0;
     border: 0
-}
+} */
 
-input[type=checkbox],input[type=radio] {
+/* input[type=checkbox],input[type=radio] {
     box-sizing: border-box;
     padding: 0
-}
+} */
 
-input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button {
+/* input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button {
     height: auto
-}
+} */
 
-input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration {
+/* input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration {
     -webkit-appearance: none
-}
+} */
 
-table {
+/* table {
     border-spacing: 0;
     border-collapse: collapse
-}
+} */
 
-td,th {
+/* td,th {
     padding: 0
-}
+} */
 
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
-@media print {
+/* @media print {
     blockquote,img,pre,tr {
         page-break-inside: avoid
     }
@@ -237,23 +237,23 @@ td,th {
     .table-bordered td,.table-bordered th {
         border: 1px solid #ddd!important
     }
-}
+} */
 
-.btn,.btn-danger.active,.btn-danger:active,.btn-default.active,.btn-default:active,.btn-info.active,.btn-info:active,.btn-primary.active,.btn-primary:active,.btn-warning.active,.btn-warning:active,.dropdown-menu>.disabled>a:focus,.dropdown-menu>.disabled>a:hover,.form-control,.navbar-toggle,.open>.dropdown-toggle.btn-danger,.open>.dropdown-toggle.btn-default,.open>.dropdown-toggle.btn-info,.open>.dropdown-toggle.btn-primary,.open>.dropdown-toggle.btn-warning {
+/* .btn,.btn-danger.active,.btn-danger:active,.btn-default.active,.btn-default:active,.btn-info.active,.btn-info:active,.btn-primary.active,.btn-primary:active,.btn-warning.active,.btn-warning:active,.dropdown-menu>.disabled>a:focus,.dropdown-menu>.disabled>a:hover,.form-control,.navbar-toggle,.open>.dropdown-toggle.btn-danger,.open>.dropdown-toggle.btn-default,.open>.dropdown-toggle.btn-info,.open>.dropdown-toggle.btn-primary,.open>.dropdown-toggle.btn-warning {
     background-image: none
-}
+} */
 
-.img-thumbnail,body {
+/* .img-thumbnail,body {
     background-color: #fff
-}
+} */
 
-@font-face {
+/* @font-face {
     font-family: 'Glyphicons Halflings';
     src: url(../fonts/glyphicons-halflings-regular.eot);
     src: url(../fonts/glyphicons-halflings-regular.eot?#iefix) format("embedded-opentype"),url(../fonts/glyphicons-halflings-regular.woff) format("woff"),url(../fonts/glyphicons-halflings-regular.ttf) format("truetype"),url(../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format("svg")
-}
+} */
 
-.glyphicon {
+/* .glyphicon {
     position: relative;
     top: 1px;
     display: inline-block;
@@ -261,17 +261,17 @@ td,th {
     font-weight: 400;
     line-height: 1;
     -webkit-font-smoothing: antialiased
-}
+} */
 
-.glyphicon-asterisk:before {
+/* .glyphicon-asterisk:before {
     content: "\2a"
-}
+} */
 
-.glyphicon-plus:before {
+/* .glyphicon-plus:before {
     content: "\2b"
-}
+} */
 
-.glyphicon-eur:before,.glyphicon-euro:before {
+/* .glyphicon-eur:before,.glyphicon-euro:before {
     content: "\20ac"
 }
 
@@ -1061,51 +1061,51 @@ td,th {
 
 .glyphicon-tree-deciduous:before {
     content: "\e200"
-}
+} */
 
-*,:after,:before {
+/* *,:after,:before {
     box-sizing: border-box
-}
+} */
 
-html {
+/* html {
     font-size: 10px
-}
+} */
 
-body {
+/* body {
     font-size: 14px;
     line-height: 1.42857143
-}
+} */
 
-button,input,select,textarea {
+/* button,input,select,textarea {
     font-family: inherit;
     font-size: inherit;
     line-height: inherit
-}
+} */
 
-a {
+/* a {
     text-decoration: none
-}
+} */
 
-a:focus,a:hover {
+/* a:focus,a:hover {
     color: #23527c;
     text-decoration: underline
-}
+} */
 
-a:focus {
+/* a:focus {
     outline-offset: -2px
-}
+} */
 
-.carousel-inner>.item>a>img,.carousel-inner>.item>img,.img-responsive,.thumbnail a>img,.thumbnail>img {
+/* .carousel-inner>.item>a>img,.carousel-inner>.item>img,.img-responsive,.thumbnail a>img,.thumbnail>img {
     display: block;
     max-width: 100%;
     height: auto
-}
+} */
 
-.img-rounded {
+/* .img-rounded {
     border-radius: 6px
-}
+} */
 
-.img-thumbnail {
+/* .img-thumbnail {
     display: inline-block;
     max-width: 100%;
     height: auto;
@@ -1114,20 +1114,20 @@ a:focus {
     border: 1px solid #ddd;
     border-radius: 4px;
     transition: all .2s ease-in-out
-}
+} */
 
-.img-circle {
+/* .img-circle {
     border-radius: 50%
-}
+} */
 
-hr {
+/* hr {
     margin-top: 20px;
     margin-bottom: 20px;
     border: 0;
     border-top: 1px solid #eee
-}
+} */
 
-.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6 {
+/* .h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6 {
     font-family: inherit;
     font-weight: 500;
     line-height: 1.1;
@@ -6030,13 +6030,13 @@ button.close {
 
 .hidden {
     visibility: hidden!important
-}
+} */
 
 .iso-progress,.slick-loading .slick-slide,.slick-loading .slick-track {
     visibility: hidden
 }
 
-.affix {
+/* .affix {
     position: fixed
 }
 
@@ -6244,14 +6244,14 @@ button.close {
 
 .fa,.fa-stack {
     display: inline-block
-}
+} */
 
 /*!
  * Bootstrap v3.3.1 (http://getbootstrap.com)
  * Copyright 2011-2014 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
-.btn-danger,.btn-default,.btn-info,.btn-primary,.btn-success,.btn-warning {
+/* .btn-danger,.btn-default,.btn-info,.btn-primary,.btn-success,.btn-warning {
     text-shadow: 0 -1px 0 rgba(0,0,0,.2);
     box-shadow: inset 0 1px 0 rgba(255,255,255,.15),0 1px 1px rgba(0,0,0,.075)
 }
@@ -6616,13 +6616,13 @@ button.close {
 
 .btn,.btn-theme,.btn-theme-alt {
     box-shadow: 1px 2px 6px 0 rgba(0,0,0,.2)
-}
+} */
 
 /*!
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
-@font-face {
+/* @font-face {
     font-family: FontAwesome;
     src: url(../../../fonts/fontawesome-webfont.eot?v=4.7.0);
     src: url(../../../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format("embedded-opentype"),url(../../../fonts/fontawesome-webfont.woff2?v=4.7.0) format("woff2"),url(../../../fonts/fontawesome-webfont.woff?v=4.7.0) format("woff"),url(../../../fonts/fontawesome-webfont.ttf?v=4.7.0) format("truetype"),url(../../../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format("svg");
@@ -6922,9 +6922,9 @@ button.close {
 
 .fa-headphones:before {
     content: "\f025"
-}
+} */
 
-.fa-volume-off:before {
+/* .fa-volume-off:before {
     content: "\f026"
 }
 
@@ -7234,9 +7234,9 @@ button.close {
 
 .fa-chevron-up:before {
     content: "\f077"
-}
+} */
 
-.fa-chevron-down:before {
+/* .fa-chevron-down:before {
     content: "\f078"
 }
 
@@ -9486,9 +9486,9 @@ button.close {
 
 .block-section:after,.block:after,.slick-track:after,.slick-track:before {
     content: ''
-}
+} */
 
-.sr-only {
+/* .sr-only {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -9538,9 +9538,9 @@ button.close {
 
 .slick-slider .slick-list,.slick-slider .slick-track {
     transform: translate3d(0,0,0)
-}
+} */
 
-.slick-track {
+/* .slick-track {
     top: 0;
     left: 0;
     display: block
@@ -9613,13 +9613,13 @@ button.close {
     src: url(../fonts/Montserrat-Regular.eot?#iefix) format("embedded-opentype"),url(../fonts/Montserrat-Regular.woff2) format("woff2"),url(../fonts/Montserrat-Regular.woff) format("woff"),url(../fonts/Montserrat-Regular.ttf) format("truetype");
     font-weight: 400;
     font-style: normal
-}
+} */
 
-* {
+/* * {
     -webkit-font-smoothing: antialiased
-}
+} */
 
-body,html {
+/* body,html {
     width: 100%;
     overflow-x: hidden
 }
@@ -9634,13 +9634,13 @@ body {
     width: 100%;
     height: 100%;
     overflow: hidden
-}
+} */
 
 /* a,body,p {
     font-family: Montserrat
 } */
 
-h1,h2,h3,h4 {
+/* h1,h2,h3,h4 {
     margin-top: 0
 }
 
@@ -10690,7 +10690,7 @@ img.border-img {
         top: 0;
         left: -45%
     }
-}
+} */
 
 .iso>.block-header {
     padding: 90px 0 0;
@@ -11075,7 +11075,7 @@ img.border-img {
     }
 }
 
-.basic-page .block-hero .block-outer {
+/* .basic-page .block-hero .block-outer {
     padding-top: 0
 }
 
@@ -12180,14 +12180,12 @@ img.border-img {
 }
 
 #block-drivers .slick-prev {
-    /* background: url(../img/arrow-left-large.png) no-repeat; */
     background-size: contain;
     left: 20px;
     filter: drop-shadow(3px 3px 5px rgba(0, 0, 0, .2))
 }
 
 #block-drivers .slick-next {
-    /* background: url(../img/arrow-right-large.png) no-repeat; */
     background-size: contain;
     right: 20px;
     filter: drop-shadow(3px 3px 5px rgba(0, 0, 0, .2))
@@ -12604,7 +12602,6 @@ text.text-box {
     z-index: 10;
     bottom: 0;
     right: 0;
-    /* background-image: url(../img/map-overlay-1.png) */
 }
 
 .advertiser-page path {
@@ -12833,16 +12830,11 @@ text.text-box {
 .car-logo {
     height: 120px;
     width: 120px;
-    /* background-image: url(../img/logos/sprite-automfg.svg); */
     background-repeat: no-repeat;
     background-size: auto 600px;
     display: inline-block;
     margin-left: -2px;
     margin-top: -2px
-}
-
-.car-logo:hover {
-    /* background-image: url(../img/logos/sprite-automfgSEL.svg) */
 }
 
 .car-logo.acura {
@@ -14898,4 +14890,4 @@ text.text-box {
     visibility: visible;
     z-index: 1040;
     opacity: 1
-}
+} */

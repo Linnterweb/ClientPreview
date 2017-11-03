@@ -624,7 +624,7 @@ ul,.nav {
 
 .row-btn:hover {
     background-color: #317439;
-    color: white;
+    color: white !important;
 }
 
 /* FOOTER */
@@ -899,6 +899,121 @@ ul,.nav {
 
 .float-left {
     float: left;
+}
+
+#why-axle {
+    margin-top: 150px;
+    
+}
+
+#why-axle h1 {
+    font-size: 4em;
+}
+
+#b-image-2 {
+    height: 250px;
+}
+
+#scale {
+    margin-top: 150px;
+}
+
+#revolutionary-technology {
+    margin-top: 150px;
+}
+
+#b-image-3 {
+    height: 250px;
+    float: right;
+}
+
+#efficient-cpms {
+    margin-top: 150px;
+}
+
+#b-image-4 {
+    height: 250px;
+}
+
+#measurement {
+    margin-top: 150px;
+}
+
+#b-image-5 {
+    height: 250px;
+    float: right;
+}
+
+#traditional {
+    margin-top: 200px;
+}
+
+#b-image-6 {
+    height: 250px;
+}
+
+#align-fix-four {
+    position: relative;
+    top: 90px;
+}
+
+#where {
+    margin-top: 75px;
+}
+
+#nationwide {
+    margin-top: 100px;
+}
+
+#cols {
+    column-count:4;
+    list-style-position: inside;
+}
+
+#b-image-7 {
+    height: 250px;
+}
+
+#b-image-8 {
+    height: 250px;
+}
+
+#b-image-9 {
+    height: 250px;
+    float: right;
+    /* position: relative; */
+    /* left: -200px; */
+    /* top: 100px; */
+}
+
+#b-image-10 {
+    height: 250px;
+    position: relative;
+    left: 129px;
+    top: -90px;
+}
+
+#align-fix-one {
+    width: 250px;
+}
+
+#align-fix-two {
+    position: relative;
+    top: -90px;
+}
+
+#align-fix-three {
+    position: relative;
+    top: -90px;
+}
+
+#align-fix-five {
+    margin-bottom: 30px;
+}
+
+#get-started {
+    margin-top: 150px;
+    margin-bottom: 150px;
 }
 
 /* .mainView .container-fluid .squeezer {
